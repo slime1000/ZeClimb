@@ -1,0 +1,168 @@
+fileFormatVersion: 2
+guid: 03e599c3e9725d8438ea53f2f55f81a6
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: ninjaSprites_0
+    21300002: ninjaSprites_1
+    21300004: ninjaSprites_2
+    21300006: ninjaSprites_3
+    21300008: ninjaSprites_4
+    21300010: ninjaSprites_5
+    21300012: ninjaSprites_6
+    21300014: ninjaSprites_7
+    21300016: ninjaSprites_8
+    21300018: ninjaSprites_9
+    21300020: ninjaSprites_10
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: ninjaSprites_0
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 915
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ninjaSprites_1
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 915
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ninjaSprites_2
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 806
+        width: 188
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ninjaSprites_3
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 949
+        width: 352
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ninjaSprites_4
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 806
+        width: 88
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ninjaSprites_5
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 844
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ninjaSprites_6
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 824
+        width: 20
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ninjaSprites_7
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 840
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ninjaSprites_8
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 854
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ninjaSprites_9
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 696
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ninjaSprites_10
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 696
+        width: 101
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

@@ -1,0 +1,146 @@
+fileFormatVersion: 2
+guid: afe3e4bbd4a142343a2b2e64a8c4b012
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Head
+    21300002: Brow
+    21300004: eyeball
+    21300006: HandL
+    21300008: ArmOne
+    21300010: HandR
+    21300012: ArmTwo
+    21300014: FootL
+    21300016: FootR
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 512
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 600
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Head
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 520
+        width: 504
+        height: 504
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Brow
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 915
+        width: 105
+        height: 87
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: eyeball
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 816
+        width: 72
+        height: 43
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HandL
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 344
+        width: 127
+        height: 128
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ArmOne
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 311
+        width: 67
+        height: 201
+      alignment: 2
+      pivot: {x: .5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HandR
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 169
+        width: 124
+        height: 124
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ArmTwo
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 119
+        width: 94
+        height: 164
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FootL
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 112
+        width: 184
+        height: 171
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FootR
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 119
+        width: 181
+        height: 174
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
