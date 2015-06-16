@@ -10,6 +10,7 @@ public class EnemyController : MonoBehaviour {
 	public float maxSpeed;
 	public float detectionRadius = 1;
 	public CircleCollider2D dRad;
+	public int hp = 10;
 	void Start () {
 		player = GameObject.Find ("Player").transform;
 		dRad = gameObject.GetComponent<CircleCollider2D> ();
@@ -50,4 +51,6 @@ public class EnemyController : MonoBehaviour {
 			}
 		}
 	}
+
+
 }

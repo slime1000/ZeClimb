@@ -14,4 +14,11 @@ public class ItemWeapon : Item {
 
 	public float speed;
 	public float damage;
+
+
+	public void OnTriggerEnter2D (Collider2D obj)
+	{
+		if(obj.tag == "Enemy")
+			Destroy (obj.gameObject);
+	}
 }
